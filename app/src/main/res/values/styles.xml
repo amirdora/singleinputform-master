@@ -1,0 +1,20 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:editTextBackground">@drawable/custom_edit_text_holo_light</item>
+
+    </style>
+
+    <color name="primary">#00bcd4</color>
+    <color name="primary_dark">#05a9be</color>
+    <color name="main_light">#62efff</color>
+    <color name="main_dark">#016070</color>
+    <color name="main_dark_light">#007487</color>
+    <color name="colorAccent">#f96dae</color>
+    <color name="error">#FFFFFF</color>
+</resources>
